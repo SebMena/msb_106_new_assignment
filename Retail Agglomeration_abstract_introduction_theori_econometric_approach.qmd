@@ -384,7 +384,7 @@ Also in line with the Keynesian theory suggesting that this pattern might take p
 Hotelling also describes this case where the consumer are willing to travel further to reach a certain central place.
 
 The size of the mall also has a positive effect on revenue for dentist practice, as larger malls tends to have have positive effect on the revenue.
-Larger malls gives the customer more options to choose from and are often placed closer to a larger CBD which might be more attractive for customers to visit, and then also explaining why customers could be more interested in traveling further to visit these malls instead of visiting the local mall in a smaller CBD.
+Larger malls gives the customer more options to choose from and are often placed close, but outside a CBD which might be more attractive for customers to visit, and then also explaining why customers could be more interested in traveling further to visit these malls instead of visiting a mall in a CBD or the CBD itself.
 
 More so, the reasoning for a more profitable business close to a shopping malls can be explain by customers beeing able to combine their dentis visit with shopping afterwards, maybe in a way to threat them self.
 You can find some similiarities in marketing strategies for grocery stores in the sense where they alwyas have a well planned system of where all their products are.
@@ -403,28 +403,34 @@ The consumer/patient then has more dentists to choose from and the dentist also 
 Where in smaller areas it is less competition and the dentist would appear to have somewhat of a monopoly since the transportation cost to the second closes dentist are noticeable higher.
 
 Findings suggest that locating further away from a CBD has a positive effect on the revenue for dentist and also that moving further away from the competition has a negative effect on revenue.
-These findings could come across as surprising at first, but taking in ti comparison that some of the CBD´s obtained from QGIS could be categorized as relatively small, one explanation to this would possibly be that the data contains a larger number of smaller CBD´s with fewer dentist offices that also has less potential customers and a weaker income which pulls the result in one direction.
-The fact that the population density (X_sum) also shows a positive effect on the revenue strengthen this theory.
-Areas with a higher population density tends to increase the revenue for dentist.
+Looking at this in light of our findings related to Malls, the optimal location would be in a cluster close to a mall.
+A brief look at our data from QGIS also shows that areas around the malls tends to have a small clusters of dentists.
+This also support Marshall where sharing, learning and matching are 3 central factors.
+Beeing located close to the competition could possibly:\
+
+-   Makes it easer to recruit new employees with the needed level of skills and education.
+
+-   Recruit new customers as you are more visible in areas where people are looking for dental services
+
+-   Sharing customers, as mentioned - One dentist can refer a customer to a specialist close by.
+
+    Another Mashiallian point to be made could be the advantage of industry clusters. Taken for granted that the data on Dentist includes both "normal Dentists" and specialist. Where in this case a "normal dentist" would for example recommend one of their customers to go see a specialist to get braces. The customer would then probably prefer to go to the closes specialist. The access to work force in these areas would also be good and will be within the same geographic area.
+
+The fact that x_sum (population density) has a positive effect on income could indicate that it helps being located close to the market and the transportation cost should be reduced for the customer.
 
 \
 Furthermore, being aware of the fact that going to the dentist is a public services and most people get assigned to their closest dentist based on their living address.
 This also takes away some of the competition and would support placement in more rural areas.
 Dispute this the findings still support the Marshallian agglomeration attributes and bid-rent placement theory of central location.
-Nevertheless, some dentist seek closer to CBD areas to capture most of the remaining part of the population.
+Nevertheless, some dentist seek closer to CBD areas and areas with more foot trafic to capture most of the remaining part of the population.
 Business, public places and industry can have a positive effect on revenue since this is areas where most of the population spends their time during their day, either going to work, school and other errand.
 Reducing the transportation cost for the customer as they are already located in these areas even if they do not live here.
+Also if a customer happen to loose its local dentist, it´s reason to believe that the customer are likely to choose a new dentist near by, hence the example presented earlier for advantages being located close to the competition.
 
 The bid rent models are under the assumption that Dentists use spatial completion to maximise profit.
 Nevertheless, the cost of dental care in Norway can vary depending on a number of other factors such as the type of treatment, the location of the dental practice and the dentist experience and qualifications.
 The Norwegian Dental Association rate the average cost of check ups is between four to eight hundred Norwegian Krone's @tannlege.
 Bertrand model also take price as competitive advantage in to consideration.
-
-Another Mashiallian point to be made could be the advantage of industry clusters.
-Taken for granted that the data on Dentist includes both "normal Dentists" and specialist.
-Where in this case a "normal dentist" would for example recommend one of their customers to go see a specialist to get braces.
-The customer would then probably prefer to go to the closes specialist.
-The access to work force in these areas would also be good and will be within the same geographic area.
 
 Shopping malls have a relatively short history in Norway, with the first shopping mall opening in the late sixties.
 Prior to this most retail activities took place in the city centre.
