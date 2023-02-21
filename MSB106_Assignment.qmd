@@ -197,3 +197,5 @@ huxreg(list("Turnover per capita in retail" = lm2), statistics = c(N = "nobs", R
 ```
 
 ## Econometric approach
+
+hei
